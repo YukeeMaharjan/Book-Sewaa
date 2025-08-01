@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\bin\Debug\net7.0\Store.Utility.deps.json
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\bin\Debug\net7.0\Store.Utility.dll
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\bin\Debug\net7.0\Store.Utility.pdb
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.AssemblyInfo.cs
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.dll
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\refint\Store.Utility.dll
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\Store.Utility.pdb
+C:\Users\Dell\Desktop\booksewa\StoreApp-master\Store.Utility\obj\Debug\net7.0\ref\Store.Utility.dll
